@@ -1,6 +1,6 @@
-- 👋 ¡Hola, soy Yazmín
-- 👀 Mis intereses giran en descubrir nuevas historias. 
-- 🌱 Actualmente estoy aprendiendo diferentes métodos de análisis de datos. 
+- 👋 ¡Hola, soy Yazmín!
+- 👀 Mis intereses giran en descubrir nuevas historias, aprender de ellas y contarlas al mundo.
+- 🌱 Actualmente estoy aprendiendo diferentes métodos de análisis de datos en Laboratoria.
 - 📫 Pudes contactarme a través de: yazjoandi@gmail.com
 
 <!---
